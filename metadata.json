@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An AI-powered travel planning platform that generates personalized itineraries, daily routes with Google Maps, budget breakdowns, and saved trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
